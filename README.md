@@ -6,8 +6,7 @@ Web Developer and Designer
 
 * 🌍  I'm based in The University of Dodoma, TZ
 * ✉️  You can contact me at [cnguruka2@gmail.com](mailto:cnguruka2@gmail.com)
-* 🧠  I'm learning Express
-* 🤝  I'm open to collaborating on Front end and Back end JavaScript Projects
+* 🤝  I'm open to collaborating on Front end and Back end Projects
 
 ### Skills
 
