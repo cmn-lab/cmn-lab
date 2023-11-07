@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 --------------------------
 
-* 🌍  I'm based in The University of Dodoma, TZ
+* 🌍  I'm based in Dar es Salaam, Tanzania
 * ✉️  You can contact me at [cnguruka2@gmail.com](mailto:cnguruka2@gmail.com)
 * 🤝  I'm open to collaborating on Front end and Back end Projects
 
@@ -30,3 +30,4 @@ Web Developer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/cmn-lab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.instagram.com/cnguruka2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
